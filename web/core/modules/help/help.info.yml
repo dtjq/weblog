@@ -1,0 +1,5 @@
+name: Help1
+type: module
+description: 'Manages the display of online help2.'
+package: Core
+version: VERSION
